@@ -1,5 +1,5 @@
 
-###  2023-06-23T18:16:21+08:00
+###  2023-06-23T20:24:53+08:00
 ```bash
 # GitHubHosts Start
 140.82.114.4                  alive.github.com
@@ -14,10 +14,8 @@
 192.0.66.2                    github.blog
 140.82.114.4                  api.github.com
 140.82.114.4                  raw.github.com
-185.199.108.133               favicons.githubusercontent.com
-185.199.108.133               avatars4.githubusercontent.com
-185.199.108.133               avatars3.githubusercontent.com
-185.199.108.133               avatars2.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
+185.199.108.133               avatars.githubusercontent.com
 140.82.114.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
@@ -28,15 +26,17 @@
 140.82.112.17                 github.community
 52.224.38.193                 github.dev
 140.82.114.4                  collector.github.com
-185.199.108.133               cloud.githubusercontent.com
+185.199.108.133               pipelines.actions.githubusercontent.com
+185.199.108.133               media.githubusercontent.com
 185.199.108.133               objects.githubusercontent.com
 140.82.114.4                  documentcloud.github.com
-185.199.108.133               gist.githubusercontent.com
 140.82.114.4                  help.github.com
 140.82.114.4                  nodeload.github.com
 140.82.114.4                  status.github.com
 140.82.114.4                  training.github.com
 185.199.108.133               avatars6.githubusercontent.com
+185.199.108.133               avatars7.githubusercontent.com
+185.199.108.133               avatars8.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 140.82.114.4                  customer-stories-feed.github.com
 140.82.114.4                  pages.github.com
