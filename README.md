@@ -1,8 +1,8 @@
 
-###  2023-07-23T20:19:51+08:00
+###  2023-07-24T04:12:17+08:00
 ```bash
 # GitHubHosts Start
-140.82.112.3                  alive.github.com
+20.169.42.80                  alive.github.com
 140.82.112.3                  live.github.com
 140.82.112.3                  central.github.com
 140.82.112.3                  assets-cdn.github.com
