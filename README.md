@@ -1,5 +1,5 @@
 
-###  2023-12-29T18:12:39+08:00
+###  2024-01-01T02:13:37+08:00
 ```bash
 # GitHubHosts Start
 140.82.113.4                  alive.github.com
@@ -14,6 +14,7 @@
 192.0.66.2                    github.blog
 140.82.113.4                  api.github.com
 140.82.113.4                  raw.github.com
+99.232.28.133                 avatars4.githubusercontent.com
 140.82.113.4                  codeload.github.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 72.21.206.80                  github-com.s3.amazonaws.com
