@@ -1,5 +1,5 @@
 
-###  2024-03-16T06:11:33+08:00
+###  2024-03-17T04:13:45+08:00
 ```bash
 # GitHubHosts Start
 140.82.114.4                  alive.github.com
@@ -41,16 +41,12 @@
 199.232.4.133                 cloud.githubusercontent.com
 199.232.4.133                 objects.githubusercontent.com
 140.82.114.4                  documentcloud.github.com
-199.232.4.133                 gist.githubusercontent.com
 140.82.114.4                  help.github.com
 140.82.114.4                  nodeload.github.com
-140.82.114.4                  status.github.com
 140.82.114.4                  training.github.com
 199.232.4.133                 avatars6.githubusercontent.com
 199.232.4.133                 avatars7.githubusercontent.com
 199.232.4.133                 avatars8.githubusercontent.com
-199.232.4.133                 raw.githubusercontent.com
-140.82.114.4                  customer-stories-feed.github.com
 140.82.114.4                  pages.github.com
 140.82.112.29                 githubapp.com
 140.82.114.4                  github.com
